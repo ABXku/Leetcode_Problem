@@ -1,6 +1,6 @@
 """
-Runtime = 44ms Beats 88.64% of users with Python3
-Memory = 16.10MB Beats 99.30% of users with Python3
+Runtime = 44ms -> Beats 88.64% of users with Python3
+Memory = 16.10MB -> Beats 99.30% of users with Python3
 """
 class Solution:
     def romanToInt(self, s: str) -> int:
