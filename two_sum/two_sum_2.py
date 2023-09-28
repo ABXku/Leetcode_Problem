@@ -1,6 +1,6 @@
 """
-    Runtime = 587ms Beats 38.18% of users with Python3
-    Memory = 17.40MB Beats 57.21%of users with Python3
+    Runtime = 587ms -> Beats 38.18% of users with Python3
+    Memory = 17.40MB -> Beats 57.21%of users with Python3
 """
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
