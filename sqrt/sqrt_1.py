@@ -1,6 +1,6 @@
 """
-Runtime = 444ms -> Beats 23.64%of users with Python3
-Memory = 16.10MB -> Beats 82.68%of users with Python3
+Runtime = 444ms -> Beats 23.64% of users with Python3
+Memory = 16.10MB -> Beats 82.68 %of users with Python3
 """
 class Solution:
     def mySqrt(self, x: int) -> int:
